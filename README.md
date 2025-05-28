@@ -1,6 +1,6 @@
 # 🖥️ CodeCircuit-Hackathon-2K25
 <p align='right'>
-  <img align='right' src='https://github.com/GHOSTs-OCTOPUS/CodeCircuit-Hackathon-2K25/blob/main/WhatsApp%20Image%202025-05-16%20at%2018.01.35_a0c3c518.jpg' width='300px"'>
+  <img align='right' src='https://github.com/GHOSTs-OCTOPUS/CodeCircuit-Hackathon-2K25/blob/main/WhatsApp%20Image%202025-05-16%20at%2018.01.35_a0c3c518.jpg' width="175px" height="150" >
 </p>
 <p align='right'>
 <img align="left" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="175" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img>
