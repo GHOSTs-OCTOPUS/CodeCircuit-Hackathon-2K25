@@ -1,24 +1,34 @@
 # 🖥️ CodeCircuit-Hackathon-2K25
 <p align='right'>
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80px"'>
+  <img align='right' src='https://github.com/GHOSTs-OCTOPUS/CodeCircuit-Hackathon-2K25/blob/main/WhatsApp%20Image%202025-05-16%20at%2018.01.35_a0c3c518.jpg' width='300px"'>
 </p>
 <p align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vikas+Kole;Freelancer+Web+Developer;Software+Engineer;Frontend+Developer;UI|UX+Designer;GHOSTs-OCTOPUS">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=CodeCircuit-Hackathon-2K25;Present+By-Outlier+AI;For+Frontend+Developer">
 </p>
 <br>
 <br>
 
 ### 📂 Repository Contents
-- **Code**: All source code from my work.
-- **Files**: Any files or datasets used in my tutorials.
-- **Resources**: Additional resources, links, and references.
+- **My submission Code**: All source code from my work.
+- **Winning project**: Hackthon winning projects.
+- **Resources**: Link of winning project with live Demo.
 ##  My submission
-- 👨‍💻 [CodeCircuit-Hackathon-1](https://ghosts-octopus.github.io/CodeCircuit-Hackathon-1/)
-- 👨‍💻 [CodeCircuit-Hackathon-2](https://ghosts-octopus.github.io/CodeCircuit-Hackathon-2/)
+### 👨‍💻 1st project:
+- Currency converter with fake values
+- [Repositories] (https://ghosts-octopus.github.io/CodeCircuit-Hackathon-1/)
+- Live Demo: (https://ghosts-octopus.github.io/CodeCircuit-Hackathon-1/)
+  <br>
+
+### 👨‍💻 2st project:
+- Number guessing game with hints and win message
+- [Repositories] (https://ghosts-octopus.github.io/CodeCircuit-Hackathon-2/)
+- Live Demo: (https://ghosts-octopus.github.io/CodeCircuit-Hackathon-2/)
+  <br>
+  
 ## 🎯 winning
 - Win opportunities to work with Outlier AI as Freelancer.
   <br>
-## Winning project
+## Winning project through Hackthon
 ### 1st Place:
 - Periodic Table, by Omer
 - [Repositories] [Omer] (https://github.com/omerkaracay/periodic-table-ai)
@@ -36,4 +46,4 @@
   <br>
 #
 Credit: [kole vikas](https://github.com/GHOSTs-OCTOPUS)<BR>
-Last Edited on: 10/03/2025
+Last Edited on: 28May 2025.
