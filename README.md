@@ -2,6 +2,10 @@
 <p align='right'>
   <img align='right' src='https://github.com/GHOSTs-OCTOPUS/CodeCircuit-Hackathon-2K25/blob/main/WhatsApp%20Image%202025-05-16%20at%2018.01.35_a0c3c518.jpg' width='300px"'>
 </p>
+<p align='right'>
+<img align="left" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="175" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
+
 <p align='center'>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=CodeCircuit-Hackathon-2K25;Present+By-Outlier+AI;For+Frontend+Developer">
 </p>
@@ -25,7 +29,7 @@
 - Live Demo: (https://ghosts-octopus.github.io/CodeCircuit-Hackathon-2/)
   <br>
   
-## 🎯 winning
+# 🎯 winning
 - Win opportunities to work with Outlier AI as Freelancer.
   <br>
 ## Winning project through Hackthon
