@@ -30,7 +30,7 @@
   <br>
   
 # 🎯 winning
-- Win opportunities to work with Outlier AI as Freelancer.
+- Win opportunities to work with Outlier AI as Freelancer for frontend-project.
   <br>
 ## Winning project through Hackthon
 ### 1st Place:
